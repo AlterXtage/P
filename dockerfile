@@ -1,3 +1,3 @@
 FROM nginx: latest
 
-COPY /sitio /usr/share/nginx/html/sitio
+COPY /pagina /usr/share/nginx/html/pagina
